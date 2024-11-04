@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashley2615
+👋 Hi, I’m @Ashley2615
 
 <!---
 Ashley2615/Ashley2615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
